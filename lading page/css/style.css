@@ -1,0 +1,44 @@
+.atas {
+	background-color: teal;
+	padding: 3% 0 3% 0;
+}
+.text-atas h1 {
+	color: #fff;
+}
+.text-atas p {
+	color: #fff;
+}
+.judul h1 {
+	margin: 3% 0; 
+}
+.judul-myprojects {
+	margin: 3% 0;
+	color: #fff;
+}
+.panel-body span {
+	color: teal;
+}
+}
+.myskills p {
+	color: #000080;
+}
+.myskills {
+	background-color: #ADE8E6; 
+}
+.myprojects {
+	background: url(../media/image/bg/bg-myprojects.jpg);
+	background-size: cover;
+}
+.item-project img {
+	margin: 3% 0;
+	box-shadow: 3px 6px 4px #000;
+}
+.tombol-projects {
+	margin: 3% 0;
+}
+.tombol-projects a {
+	color: #20B2AA;
+}
+.tombol-projects a:hover {
+	text-decoration: none;
+}
